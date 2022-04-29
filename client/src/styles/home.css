@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+  }
+  
+  .Home {
+    text-align: center;
+    width: 100%;
+    background-color: #181818;
+  }
+  
